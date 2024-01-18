@@ -32,9 +32,9 @@ The granular analysis to optimize product offerings, improve fulfillment center 
 ![Screenshot 2024-01-17 112711](https://github.com/TrushnaR/PowerBI-Food-Delivery-Forecast-Dashboard-/assets/155801135/82ed9478-310f-42a2-bc0e-e3c6696da4d0)
 
 ##### Custom Forecasting-Explore advanced forecasting models under the "Modeling" tab
-![alt text]("C:\Users\trush\OneDrive\Pictures\Screenshots\food\modelling.png")
+![modelling](https://github.com/TrushnaR/PowerBi-Food-Delivery-Forecast-Dashboard/assets/155801135/d3d57af9-ab84-4a38-a491-74d67daed06a)
 
-###### Power BI Dashboard Visualization
+#### Power BI Dashboard Visualization
 * Design the dashboard layout
 * Create a measure table to aggregate and display the data using Dax functions
 * Use Visualization for charts and filters for filter dashboard
