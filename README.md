@@ -44,7 +44,7 @@ The granular analysis to optimize product offerings, improve fulfillment center 
 
 Download The File and Open In Power BI Desktop for Interactive Viewing.
 View Screenshots of the Dashboard in PDF format.
-View Photos of Dashboard and excel analysis.
+View Photos of Dashboard analysis.
 * Note: The PowerBI online publishing link isn't available right now because of subscription issues.
 * I'll add that online link soon, so anyone can open it and interact with it.
 
