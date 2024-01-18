@@ -42,9 +42,11 @@ The granular analysis to optimize product offerings, improve fulfillment center 
 * Add Year column as Slicer and add some informative KPI.
 * Add Card, Sun Burst Pie chart , Column Chart, Stacked Bar Chart.
 
-Download The File and Open In Power BI Desktop for Interactive Viewing.
 [View Screenshots](https://github.com/TrushnaR/PowerBi-Food-Delivery-Forecast-Dashboard/tree/main/PowerBi%20Food%20Delivery%20Forecasting%20Images) of the Dashboard.
-[View Video](url) of Dashboard.
-* Note: The PowerBI online publishing link isn't available right now because of subscription issues.
-* I'll add that online link soon, so anyone can open it and interact with it.
+[View Video](https://github.com/TrushnaR/PowerBi-Food-Delivery-Forecast-Dashboard/blob/main/Dashboard%20Video.mp4) of Dashboard.
+[Download The File](url) and Open In Power BI file for Interactive Viewing in PDF format.
+* Note : The whole discription is given in README.md file.
+
+
+
 
