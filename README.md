@@ -43,9 +43,11 @@ The granular analysis to optimize product offerings, improve fulfillment center 
 * Add Card, Sun Burst Pie chart , Column Chart, Stacked Bar Chart.
 
 [View Screenshots](https://github.com/TrushnaR/PowerBi-Food-Delivery-Forecast-Dashboard/tree/main/PowerBi%20Food%20Delivery%20Forecasting%20Images) of the Dashboard.
+
 [View Video](https://github.com/TrushnaR/PowerBi-Food-Delivery-Forecast-Dashboard/blob/main/Dashboard%20Video.mp4) of Dashboard.
+
 [Download The File](url) and Open In Power BI file for Interactive Viewing in PDF format.
-* Note : The whole discription is given in README.md file.
+
 
 
 
