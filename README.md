@@ -40,7 +40,7 @@ The granular analysis to optimize product offerings, improve fulfillment center 
 * Use Visualization for charts and filters for filter dashboard
 * Now, Add Title Food Delivery Forecast Dashboard
 * Add Year column as Slicer and add some informative KPI.
-* Add Card, Sun Burst Pie chart , Column Chart, Stacked Bar Chart.
+* Add Card, Sun Burst Pie chart, Column Chart, Stacked Bar Chart.
 
 [View Screenshots](https://github.com/TrushnaR/PowerBi-Food-Delivery-Forecast-Dashboard/tree/main/PowerBi%20Food%20Delivery%20Forecasting%20Images) of the Dashboard.
 
