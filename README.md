@@ -1,4 +1,4 @@
-# PowerBi-Food-Delivery-Forecast-Dashboard
+# Food-Delivery-Forecast-Dashboard
 This project shows the use of Power Query and DAX Query to analyse the food delivery data, add new measures and columns, and create a dashboard using Power BI.
 
 ## Objective 
